@@ -13,7 +13,7 @@ import (
 
 func main() {
 
-	var path string = "D:/temp"
+	var path string = "D:/temp11111"
 
 	//获取目标路径下的所有文件名
 	dir_list := fileList(path)
